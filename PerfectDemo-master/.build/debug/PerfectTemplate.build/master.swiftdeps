@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "3d301eb9e9b7b47588ffcd5769de07cc"
+build_time: [534071202, 539269000]
+inputs:
+  "/Users/lizelu/Documents/Github/PerfectDemo/Sources/arguments.swift": [534044802, 0]
+  "/Users/lizelu/Documents/Github/PerfectDemo/Sources/main.swift": [534071177, 0]
